@@ -51,7 +51,7 @@ function init() {
         // Mikko's test key - don't copy as your mileage may vary
         //infuraId: "8043bb2cf99347b1bfadfb233c5325c0",
         rpc: {
-         '1': 'https://bsc-dataseed1.defibit.io',
+         '1': 'https://bsc-dataseed1.defibit.io',  //Example custom RPC
          '56': 'https://bsc-dataseed1.defibit.io', // BSC RPC URL
         },
             
